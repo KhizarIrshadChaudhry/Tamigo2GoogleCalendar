@@ -53,7 +53,7 @@ The program will prompt you for your Tamigo username and password, then sync you
 
 ## Issues and Support
 
-If you encounter any issues or have questions while using TamigoShiftSync, feel free to contact me directly or create an issue in the [GitHub repository](https://github.com/yourusername/TamigoShiftSync/issues).
+If you encounter any issues or have questions while using TamigoShiftSync, feel free to contact me directly or create an issue in the [GitHub repository](https://github.com/KhizarIrshadChaudhry/Tamigo2GoogleCalendar/issues).
 
 Your feedback is valuable and will help improve the project!
 
