@@ -60,6 +60,3 @@ Your feedback is valuable and will help improve the project!
 ## License
 
 This project is licensed under the MIT License.
-```
-
-Make sure to replace `yourusername` with your actual GitHub username in the links!
